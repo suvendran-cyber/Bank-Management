@@ -1,8 +1,8 @@
-# 🏦 Bank Account Management System (Python)
+# Bank Account Management System (Python)
 
 A simple command-line based banking system implemented in Python using Object-Oriented Programming (OOP).
 
-## 🚀 Features
+ Features
 
 - Create a new bank account
 - Deposit money
@@ -11,7 +11,7 @@ A simple command-line based banking system implemented in Python using Object-Or
 - Display account balance
 - Exception handling for invalid operations
 
-## 🧠 Concepts Used
+ Concepts Used
 
 - Classes and Objects
 - Constructors (`__init__`)
@@ -19,4 +19,4 @@ A simple command-line based banking system implemented in Python using Object-Or
 - Exception Handling
 - Dictionary data structure for account storage
 
-## 📂 Project Structure
+ 
